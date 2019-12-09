@@ -12,7 +12,6 @@ Example usage:
 
 int main(void)
 {
-
     pca9685_init(0x00, 50); // start PCA9685 device 0x00 at 50 Hz output
 
     _delay_ms(5);
