@@ -1,6 +1,7 @@
-# PC9685-Multi-Channel-Servo-Controller-Driver-for-AVR-ATmega
+# PCA9685-Multi-Channel-Servo-Controller-Driver-for-AVR-ATmega
 
 Driver for the 32 channel servo controller. 
+
 Example usage:
 
 ``` C
