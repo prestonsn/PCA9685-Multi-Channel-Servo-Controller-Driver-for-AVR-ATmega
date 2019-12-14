@@ -2,7 +2,7 @@
 
 Driver for the 32 channel servo controller. 
 
-Example usage:
+Example usage,
 
 ``` C
 #include <avr/io.h>
