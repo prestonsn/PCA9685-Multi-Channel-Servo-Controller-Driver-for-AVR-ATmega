@@ -1,7 +1,7 @@
 # PCA9685-Multi-Channel-Servo-Controller-Driver-for-AVR-ATmega
 
 Driver for the 32 channel servo controller. 
-
+The I2C library used: https://github.com/Preston-Sundar/AtmegaXX-I2C-Library
 Example usage,
 
 ``` C
